@@ -1,4 +1,4 @@
-# Quick Shop
+# 🏘️ Quick Shop 
 
 ## Application description
 This application provides a solution to upload, scrap from website, and manage ads for housing goods. A registered user is able to save their favorites into a wishlist, and have an access to their full historic.
@@ -13,15 +13,6 @@ This application provides a solution to upload, scrap from website, and manage a
 
 > :computer: Running with Linux, Apple Silicon and/or MacOS? This programm might not be working, please use Windows 10 or higher.
 
-## Installation
-
-If your environment meets all the pre-requisits, you can clone the repository by executing the following lines in Visual Studio Code (or any code editor):
-
-```shell
-git clone https://gitlab.com/SamuelSoa/projet-info-2A.git
-cd projet-info-2A
-pip install -r requirements.txt
-```
 
 ## Lunching
 
