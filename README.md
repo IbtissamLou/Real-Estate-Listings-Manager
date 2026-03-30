@@ -110,7 +110,7 @@ python -m unittest
 - Manual delivery process
 - Reproducible setup via requirements.txt
 
-## 🚀 Continuous Deployment (CDP) — Azure App Service
+## 🚀 Continuous Deployment 
 - Not deployed yet
 - Architecture compatible with future cloud deployment
 
