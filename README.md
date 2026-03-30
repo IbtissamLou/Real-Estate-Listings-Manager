@@ -63,8 +63,6 @@ The application follows a modular architecture:
 - Recommended: **Windows 10 or higher**  
 - May not work properly on Linux / macOS / Apple Silicon  
 
----
-
 ### Installation
 ```bash
 pip install -r requirements.txt
@@ -73,25 +71,35 @@ pip install -r requirements.txt
 ### Run the Application
 python main.py
 
+---
+
 ## 🎯 API Usage / 🖥️ User Interface (Streamlit)
 - Current version: CLI-based application
 - No API or Streamlit UI yet
 - Planned: Web interface in future versions
+
+---
 
 ## ⏱️ Performance Goals
 - Efficient filtering over large datasets
 - Fast retrieval of wishlist and user history
 - Scalable data ingestion (scraping + upload)
 
+---
+
 ## 📊 Evaluation & Metrics (Planned)
 - Filtering accuracy and relevance
 - Data completeness from scraping
 - System responsiveness (latency)
 
+---
+
 ## 🔐 Privacy & Security
 - User data (favorites, history) is securely stored
 - Database access restricted to ENSAI infrastructure
 - No external exposure of sensitive data
+
+---
 
 ## 🧪 🔁 Continuous Testing & Integration
 - Testing framework: unittest
@@ -105,14 +113,20 @@ python -m unittest
 - RechercheFiltre is thoroughly tested on real datasets
 - Combination of multiple functions validated
 - Code is documented for maintainability
+
+---
   
 ## 🚚 🚀 Continuous Delivery
 - Manual delivery process
 - Reproducible setup via requirements.txt
 
+---
+
 ## 🚀 Continuous Deployment 
 - Not deployed yet
 - Architecture compatible with future cloud deployment
+
+---
 
 ## 🔥 Future Improvements
 🌍 Web interface (Streamlit or React)
@@ -121,8 +135,12 @@ python -m unittest
 📊 Advanced analytics & recommendations
 🧠 AI-powered listing ranking
 
+---
+
 ## 🏁 Vision
 Build a smart real estate assistant that helps users make better housing decisions through data, automation, and AI.
+
+---
 
 ## 🧑‍💻 Authors
 ENSAI Project Contributors
