@@ -74,24 +74,24 @@ pip install -r requirements.txt
 python main.py
 
 ## 🎯 API Usage / 🖥️ User Interface (Streamlit)
-Current version: CLI-based application
-No API or Streamlit UI yet
-Planned: Web interface in future versions
+- Current version: CLI-based application
+- No API or Streamlit UI yet
+- Planned: Web interface in future versions
 
 ## ⏱️ Performance Goals
-Efficient filtering over large datasets
-Fast retrieval of wishlist and user history
-Scalable data ingestion (scraping + upload)
+- Efficient filtering over large datasets
+- Fast retrieval of wishlist and user history
+- Scalable data ingestion (scraping + upload)
 
 ## 📊 Evaluation & Metrics (Planned)
-Filtering accuracy and relevance
-Data completeness from scraping
-System responsiveness (latency)
+- Filtering accuracy and relevance
+- Data completeness from scraping
+- System responsiveness (latency)
 
 ## 🔐 Privacy & Security
-User data (favorites, history) is securely stored
-Database access restricted to ENSAI infrastructure
-No external exposure of sensitive data
+- User data (favorites, history) is securely stored
+- Database access restricted to ENSAI infrastructure
+- No external exposure of sensitive data
 
 ## 🧪 🔁 Continuous Testing & Integration
 - Testing framework: unittest
@@ -107,12 +107,12 @@ python -m unittest
 - Code is documented for maintainability
   
 ## 🚚 🚀 Continuous Delivery
-Manual delivery process
-Reproducible setup via requirements.txt
+- Manual delivery process
+- Reproducible setup via requirements.txt
 
 ## 🚀 Continuous Deployment (CDP) — Azure App Service
-Not deployed yet
-Architecture compatible with future cloud deployment
+- Not deployed yet
+- Architecture compatible with future cloud deployment
 
 ## 🔥 Future Improvements
 🌍 Web interface (Streamlit or React)
